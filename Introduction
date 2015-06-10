@@ -1,0 +1,28 @@
+Introduction to MachineLearning:
+==================================
+
+Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being 
+explicitly programmed. Machine learning focuses on the development of computer programs that can teach themselves to grow 
+and change when exposed to new data.
+
+
+Machine learning tasks are typically classified into three broad categories, depending on the nature of the learning "signal" or "feedback" available to a learning system. These are:
+
+Supervised learning:
+====================
+ The computer is presented with example inputs and their desired outputs, given by a "teacher", and the goal is to learn a general rule that maps inputs to outputs.
+
+
+Unsupervised learning:
+=======================
+ No labels are given to the learning algorithm, leaving it on its own to find structure in its input. Unsupervised learning can be a goal in itself (discovering hidden patterns in data) or a means towards an end.
+
+In reinforcement learning:
+===========================
+ a computer program interacts with a dynamic environment in which it must perform a certain goal (such as driving a vehicle), 
+ without a teacher explicitly telling it whether it has come close to its goal or not. Another example is learning to play a 
+ game by playing against an opponent.
+
+Between supervised and unsupervised learning is semi-supervised learning, where the teacher gives an incomplete training signal: 
+a training set with some (often many) of the target outputs missing. Transduction is a special case of this principle where the 
+entire set of problem instances is known at learning time, except that part of the targets are missing.
